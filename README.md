@@ -21,3 +21,14 @@ GitHub repository:
 https://github.com/Slamtec/rplidar_arduino
 
 Install the library in the Arduino IDE before uploading the sketch.
+RPLIDAR Sensor
+      │
+      │ UART
+      ▼
+Arduino Due
+(Data acquisition)
+      │
+      │ USB Serial
+      ▼
+MATLAB
+(Polar map visualization)
