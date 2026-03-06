@@ -18,7 +18,7 @@ This project uses the following external libraries:
   Used for communication with the RPLIDAR sensor.
 
 GitHub repository:  
-https://github.com/Slamtec/rplidar_arduino
+https://github.com/Slamtec/rplidar_sdk
 
 Install the library in the Arduino IDE before uploading the sketch.
 RPLIDAR Sensor
